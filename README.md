@@ -1,20 +1,22 @@
 
 # Air-island
 
-Rainmeter Skins inspired by the visual novel **Air-island** (also known as **Air-island**).
+Скины для Rainmeter созданы по мотивам минимализма **Air-island**.
 
 ![Preview](path_to_your_image_here)
 
 ## Features
 
-- **Games Panel**: Displays various game-related stats.
-- **Social Media Widget**: Live follower count with customizable updates.
-- **System Monitor**: Tracks memory, disk space, and other system stats.
-- **Theme Inspired Design**: Reflects the aesthetics of the visual novel.
+- **Dinamic Ilend**: Остров быстрого доступа к приложениям.
+- **System**: Блок отображения загруженности процессора, диска c:, две кнопки.
+- **ItemBlock**: Две кнопки с ссылками.
+- **Visualizer**: Визуализатор аудио.
+- **ImgBord**: Блок с изображением.
+- **Clock**: Часы в стиле минимализм.
 
 ## Installation
 
-1. Download and install [Rainmeter](https://www.rainmeter.net/).
-2. Clone or download this repository:
+1. Скачать и установить [Rainmeter](https://www.rainmeter.net/).
+2. Клонировать или скачать репозиторий:
    ```bash
    git clone https://github.com/KuromiVoid1007/Air-island.git

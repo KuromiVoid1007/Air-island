@@ -3,7 +3,7 @@
 
 Скины для Rainmeter созданы по мотивам минимализма **Air-island**.
 
-![Preview](path_to_your_image_here)
+![srkean](https://github.com/user-attachments/assets/80ca22c3-ecaa-4f96-9929-aa5b445f0e96)
 
 ## Features
 
